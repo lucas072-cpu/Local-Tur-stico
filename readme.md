@@ -4,11 +4,11 @@ Uma página web sobre os principais pontos turísticos de **Busan, Coreia do Sul
 
 ## 📸 Preview
 
-![Preview do projeto](./assets/preview.png)
+![Preview do projeto](./assets/preview.jpg)
 
 ## 🔗 Projeto
 
-🌐 **[Acesse o projeto online](https://lucas072-cpu.github.io/Local-Tur-stico/)**
+🌐 <strong><a href="https://lucas072-cpu.github.io/Local-Tur-stico/" target="_blank">Acesse o projeto online</a></strong>
 
 ## 📖 Sobre
 

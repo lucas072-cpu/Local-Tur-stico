@@ -1,18 +1,20 @@
 body {
   background-color: #29292e;
+  font-family: "Open Sans", sans-serif;
 }
 
 #page {
   box-sizing: border-box;
   background-color: #f5f4f0;
   width: 1280px;
-  margin: 80px auto;
+  margin: 88px auto;
   padding: 80px;
 }
 
 #intro-title {
   margin-top: 8px;
   margin-bottom: 40px;
+  font-weight: bold;
 }
 
 #intro p {
@@ -20,13 +22,14 @@ body {
   margin-top: 24px;
   border-bottom: solid 1px #d9d9d9;
   text-align: center;
+  font-style: italic;
 }
 
 #destinos {
   margin: 64px 0px;
 }
 
-#destinos h5 {
+#destinos h4 {
   margin: 0px 0px 2px 0px;
 }
 
@@ -36,10 +39,12 @@ body {
 
 p {
   margin: 5px 0px;
+  color: #333333;
 }
 
 .templos h1 {
   margin: 20px 0px 4px 0px;
+  padding: 0px 10px;
 }
 
 .templos ul {
@@ -54,4 +59,42 @@ p {
 
 .lista {
   padding-top: 20px;
+  font-weight: bold;
+}
+
+footer {
+  box-sizing: border-box;
+  padding-top: 40px;
+  border-top: solid 1px #d9d9d9;
+  text-align: center;
+}
+
+footer p + p {
+  margin-top: 65px;
+  font-family: "alice", sans-serif;
+}
+
+h4 {
+  color: #e1624f;
+  line-height: 250%;
+}
+
+.listazul {
+  color: #0c51a7;
+}
+
+.listaroxa {
+  color: #591b98;
+}
+
+.listavermelha {
+  color: #e5245e;
+}
+
+.listalaranja {
+  color: #e95e10;
+}
+
+ul {
+  font-weight: bold;
 }

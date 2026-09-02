@@ -26,11 +26,6 @@ A página foi desenvolvida com foco em uma apresentação visual organizada, uti
 - **CSS3**
 - **Google Fonts**
 
-### Fontes utilizadas
-
-- Open Sans
-- Alice
-
 ## 🎨 Estilização
 
 O projeto utiliza CSS para trabalhar:
